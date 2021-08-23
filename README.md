@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 Skills: HTML / CSS
 
-- 🔭 I’m currently working on My Pc 
 - 🌱 I’m currently learning Javascript 
 - 📫 How to reach me: https://facebook.com/joynul.abedin.7731 
 
