@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 Skills: HTML / CSS
 
 - 🌱 I’m currently learning Javascript 
-- 📫 How to reach me: <a href="   https://facebook.com/joynul.abedin.7731" class="fa fa-facebook"></a>                                                        
+- 📫 How to reach me: 
+- <a href="https://facebook.com/joynul.abedin.7731" class="fa fa-facebook"></a>                                                        
 
 ![Joynul's GitHub stats](https://github-readme-stats.vercel.app/api?username=joynul0&show_icons=true&theme=radical)
 
