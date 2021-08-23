@@ -5,8 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Loading.....](Loading.....)
 
-- 📝 I regularly write articles on [https://techmyth.xyz](Techmyth.xyz)
-
+- 📝 I regularly write articles on <a href="https://techmyth.xyz" target="blank">TechMyth </a>
 - 📫 How to reach me **joynulabedin510@gmail.ccom**
 
 - ⚡ Fun fact **I love to eat 😊**
