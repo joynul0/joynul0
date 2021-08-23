@@ -22,7 +22,8 @@ Skills: HTML / CSS
 - 🌱 I’m currently learning Javascript 
 - 📫 How to reach me: https://facebook.com/joynul.abedin.7731 
 
-[![Joynuls's GitHub stats](https://github-readme-stats.vercel.app/api?username=joynul0)](https://github.com/joynul0/github-readme-stats)
+![Joynul's GitHub stats](https://github-readme-stats.vercel.app/api?username=joynul0&show_icons=true&theme=radical)
+
 
 
  
