@@ -23,7 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joynul0&show_icons=true&theme=dark&title_color=ffffff&text_color=00ffcc&locale=en" alt="joynul0" /></p>
                                                    
 
-![Joynul's GitHub stats](https://github-readme-stats.vercel.app/api?username=joynul0&show_icons=true&theme=radical)
+
 
 
 
