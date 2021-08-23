@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ Its me Joynul Abedin.
+#### I am a Newb in web developing ! 😊
+
+Skills: HTML / CSS
+
+- 🔭 I’m currently working on My Pc 
+- 🌱 I’m currently learning Javascript 
+- 📫 How to reach me: https://facebook.com/joynul.abedin.7731 
+
+[![Joynuls's GitHub stats](https://github-readme-stats.vercel.app/api?username=joynul0)](https://github.com/joynul0/github-readme-stats)
+
+
+ 
+
