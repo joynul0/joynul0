@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joynul Abedin</h1>
-<h3 align="center" color:yellow;> Newb </h3>
+<h3 align="center" > NEWB </h3>
 
 - 🌱 I’m currently learning **Javascript**
 
