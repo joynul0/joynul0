@@ -6,24 +6,6 @@
 - 👨‍💻 All of my projects are available at <a href="https://github.com/joynul0?tab=repositories" target="blank">Repositories</a>
 
 - 📝 I regularly write articles on <a href="https://techmyth.xyz" target="blank">TechMyth </a>
-- 📫 How to reach me <!DOCTYPE html>
-<html>
-<head>
-<title>Google Icons</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<script src="https://code.iconify.design/2/2.0.3/iconify.min.js"></script>
-
-<style>
-.iconify{
-
-}
-</style>
-</head>
-<body>
-
-<span class="iconify" data-icon="logos:google-gmail"></span>
-</body>
-</html> 
 
 - ⚡ Fun fact **I love to eat 😊**
 
