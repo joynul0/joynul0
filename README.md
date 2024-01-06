@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/joynul0?tab=repositories" target="blank">Repositories</a>
 
-- 📝 I regularly write articles on <a href="https://techmyth.xyz" target="blank">TechMyth </a>
-
 - ⚡ Fun fact **I love to eat 😊**
 
 <h3 align="left">Connect with me:</h3>
