@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://fb.com/joynul.abedin.7731](https://www.facebook.com/profile.php?id=61551535393069)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joynul.abedin.7731" height="30" width="40" /></a>
 <a href="https://instagram.com/its_joynul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_joynul" height="30" width="40" /></a>
 </p>
 
